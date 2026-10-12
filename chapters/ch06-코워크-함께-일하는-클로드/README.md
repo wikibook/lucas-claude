@@ -11,24 +11,24 @@
 | 자료 | 내용 | 책 연결 |
 | --- | --- | --- |
 | [`프롬프트/첫-작업-다운로드-폴더-정리.md`](프롬프트/첫-작업-다운로드-폴더-정리.md) | 코워크 첫 실습 — 폴더 정리 | 6.1.5절 예제 6.1 |
-| [`프롬프트/플러그인-캠페인-브리프.md`](프롬프트/플러그인-캠페인-브리프.md) | `/campaign-plan` 마케팅 플러그인 | 6.2.1절 예제 6.2 |
-| [`프롬프트/예약-작업-AI-뉴스-브리핑.md`](프롬프트/예약-작업-AI-뉴스-브리핑.md) | 매일 아침 AI 뉴스 브리핑 예약 | 6.2.3절 예제 6.3 |
-| [`프롬프트/디스패치-모바일-분석.md`](프롬프트/디스패치-모바일-분석.md) | 모바일→데스크톱 분석 요청 | 6.2.4절 예제 6.4 |
-| [`프롬프트/라이브-아티팩트-대시보드.md`](프롬프트/라이브-아티팩트-대시보드.md) | 라이브 업무 대시보드 | 6.2.5절 예제 6.5 |
-| [`프롬프트/커스텀-비주얼-인라인.md`](프롬프트/커스텀-비주얼-인라인.md) | 인라인 막대그래프 시각화 | 6.2.5절 예제 6.6 |
-| [`프롬프트/통합-파일-분석.md`](프롬프트/통합-파일-분석.md) | 여러 형식의 파일을 한 번에 분석 | 6.3절 예제 6.7 |
-| [`샘플/거래처자료/A사/`](샘플/거래처자료/A사) | 예제 6.7 실습용 PDF 2개·엑셀 1개·화이트보드 사진(합성) 1개 | 6.3절 예제 6.7 |
-| [`프롬프트/미팅-브리핑-자동-생성.md`](프롬프트/미팅-브리핑-자동-생성.md) | 메일·드라이브·웹을 합친 미팅 브리핑 | 6.3절 예제 6.8 |
-| [`프롬프트/분기-보고서-자동화.md`](프롬프트/분기-보고서-자동화.md) | 팀별 엑셀 → 분기 실적 보고서 | 6.3절 예제 6.9 |
-| [`샘플/2027년_2분기/팀별실적/`](샘플/2027년_2분기/팀별실적) | 예제 6.9 실습용 팀별 엑셀 6종(영업·마케팅·개발·CS·운영·기획). 본인 구글 드라이브의 같은 경로에 업로드한 뒤 사용 | 6.3절 예제 6.9 |
-| [`프롬프트/콘텐츠-대량-제작.md`](프롬프트/콘텐츠-대량-제작.md) | 한 달치 콘텐츠 캘린더·블로그·캡션 | 6.3절 예제 6.10 |
-| [`프롬프트/리서치-종합-보고서.md`](프롬프트/리서치-종합-보고서.md) | 웹+로컬 자료를 합친 경쟁사 SWOT | 6.3절 예제 6.11 |
-| [`프롬프트/research-agent-시스템-프롬프트.md`](프롬프트/research-agent-시스템-프롬프트.md) | Research Agent 시스템 프롬프트 | 6.3.6절 예제 6.12 |
-| [`프롬프트/실전-워크플로우.md`](프롬프트/실전-워크플로우.md) | 위 6.7~6.11을 본인 업무에 맞게 바꿔 쓰는 템플릿 | 6.3절 응용 |
-| [`프롬프트/ai-팀-구성.md`](프롬프트/ai-팀-구성.md) | 에이전트 4인 팀 구성 요소와 역할 분담 | 6.3.6절 |
+| [`프롬프트/플러그인-캠페인-브리프.md`](프롬프트/플러그인-캠페인-브리프.md) | `/campaign-plan` 마케팅 플러그인 | 6.2.3절 예제 6.2 |
+| [`프롬프트/예약-작업-AI-뉴스-브리핑.md`](프롬프트/예약-작업-AI-뉴스-브리핑.md) | 매일 아침 AI 뉴스 브리핑 예약 | 6.3.2절 예제 6.3 |
+| [`프롬프트/디스패치-모바일-분석.md`](프롬프트/디스패치-모바일-분석.md) | 모바일→데스크톱 분석 요청 | 6.3.3절 예제 6.4 |
+| [`프롬프트/라이브-아티팩트-대시보드.md`](프롬프트/라이브-아티팩트-대시보드.md) | 라이브 업무 대시보드 | 6.3.4절 예제 6.5 |
+| [`프롬프트/커스텀-비주얼-인라인.md`](프롬프트/커스텀-비주얼-인라인.md) | 인라인 막대그래프 시각화 | 6.3.4절 예제 6.6 |
+| [`프롬프트/통합-파일-분석.md`](프롬프트/통합-파일-분석.md) | 여러 형식의 파일을 한 번에 분석 | 6.4.1절 예제 6.7 |
+| [`샘플/거래처자료/A사/`](샘플/거래처자료/A사) | 예제 6.7 실습용 PDF 2개·엑셀 1개·화이트보드 사진(합성) 1개 | 6.4.1절 예제 6.7 |
+| [`프롬프트/미팅-브리핑-자동-생성.md`](프롬프트/미팅-브리핑-자동-생성.md) | 메일·드라이브·웹을 합친 미팅 브리핑 | 6.4.2절 예제 6.8 |
+| [`프롬프트/분기-보고서-자동화.md`](프롬프트/분기-보고서-자동화.md) | 팀별 엑셀 → 분기 실적 보고서 | 6.4.3절 예제 6.9 |
+| [`샘플/2027년_2분기/팀별실적/`](샘플/2027년_2분기/팀별실적) | 예제 6.9 실습용 팀별 엑셀 6종(영업·마케팅·개발·CS·운영·기획). 본인 구글 드라이브의 같은 경로에 업로드한 뒤 사용 | 6.4.3절 예제 6.9 |
+| [`프롬프트/콘텐츠-대량-제작.md`](프롬프트/콘텐츠-대량-제작.md) | 한 달치 콘텐츠 캘린더·블로그·캡션 | 6.4.4절 예제 6.10 |
+| [`프롬프트/리서치-종합-보고서.md`](프롬프트/리서치-종합-보고서.md) | 웹+로컬 자료를 합친 경쟁사 SWOT | 6.4.5절 예제 6.11 |
+| [`프롬프트/research-agent-시스템-프롬프트.md`](프롬프트/research-agent-시스템-프롬프트.md) | Research Agent 시스템 프롬프트 | 6.4.6절 예제 6.12 |
+| [`프롬프트/실전-워크플로우.md`](프롬프트/실전-워크플로우.md) | 위 6.7~6.11을 본인 업무에 맞게 바꿔 쓰는 템플릿 | 6.4절 응용 |
+| [`프롬프트/ai-팀-구성.md`](프롬프트/ai-팀-구성.md) | 에이전트 4인 팀 구성 요소와 역할 분담 | 6.4.6절 |
 | [플러그인 목록](../../catalog/플러그인.md) | 코워크·클로드 코드 플러그인 링크 | 6.2절 |
 | [공식 문서 링크](../../resources/공식문서-링크.md) | 클로드 코드, MCP, 스킬 관련 공식 문서 | 6장 이후 |
-| 실전 활용 사례 | 코워크를 제품·디자인 업무에 쓰는 예시 | 6.3절 |
+| 실전 활용 사례 | 코워크를 제품·디자인 업무에 쓰는 예시 | 6.4절 |
 
 > 플러그인은 클로드의 행동 범위와 연결 도구를 넓힙니다.
 > 설치 전에는 어떤 권한과 데이터를 다루는지 먼저 확인하세요.
@@ -55,9 +55,9 @@
 
 | 저장소 | 대상 | 책 연결 |
 | --- | --- | --- |
-| [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 마케팅·영업·법무·재무·PM 등 **일반 지식 업무** 11종 | 6.2.1절 Marketing, 6.2절 표 6.2 |
-| [financial-services](https://github.com/anthropics/financial-services) | IB·리서치·PE·자산관리 **금융 워크플로** | 6.3절 파일 분석·보고서 초안 |
-| [claude-for-legal](https://github.com/anthropics/claude-for-legal) | 계약·프라이버시·소송 등 **법무 연습 영역** | 6.2절 Legal, 6.3절 문서 검토 |
+| [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 마케팅·영업·법무·재무·PM 등 **일반 지식 업무** 11종 | 6.2.1절 표 6.3, 6.2.3절 Marketing |
+| [financial-services](https://github.com/anthropics/financial-services) | IB·리서치·PE·자산관리 **금융 워크플로** | 6.2.1절 참고 박스, 6.4절 파일 분석·보고서 초안 |
+| [claude-for-legal](https://github.com/anthropics/claude-for-legal) | 계약·프라이버시·소송 등 **법무 연습 영역** | 6.2절 Legal, 6.4절 문서 검토 |
 
 클로드 코드에서도 같은 마켓플레이스를 `claude plugin marketplace add`로 등록해 쓸 수 있습니다.
 개발용 공식 플러그인(Superpowers, GitHub 등)은 [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)에서 `/plugin install …@claude-plugins-official`로 설치합니다.
@@ -71,7 +71,7 @@
 | --- | --- |
 | 기반 | `product-marketing` 스킬 → `.agents/product-marketing.md`에 제품·타깃·포지셔닝 기록 후 다른 스킬이 참조 |
 | 대표 스킬 | `copywriting`, `cro`, `launch`, `marketing-plan`, `emails`, `seo-audit`, `ai-seo`, `ads` |
-| 책 연결 | 6.2.1절 캠페인 브리프, 8.3절 데일리핏 카피·랜딩, 2장 마케팅 프롬프트 심화 |
+| 책 연결 | 6.2.3절 캠페인 브리프, 8.3절 데일리핏 카피·랜딩, 2장 마케팅 프롬프트 심화 |
 
 ### 마케팅 도구 3단계
 
@@ -115,7 +115,7 @@ Marketing Skills로 **카피·CRO**를 다듬고 랜딩·사이트를 배포한 
 | 항목 | 내용 |
 | --- | --- |
 | 역할 | `/seo audit` 전체 감사, `/seo page` 단일 페이지, `/seo schema` 구조화 데이터, `/seo geo` AI 검색 최적화 |
-| 책 연결 | 6.2.1절 캠페인 → 8.6절 랜딩 제작 → **출시 후** `/seo audit` |
+| 책 연결 | 6.2.3절 캠페인 → 8.3.5절 랜딩 제작 → **출시 후** `/seo audit` |
 | 설치 | `/plugin marketplace add AgriciDaniel/claude-seo` → `/plugin install claude-seo@agricidaniel-claude-seo` |
 
 상세 명령·Google API 연동은 [7장 README의 Claude SEO 절](../ch07-클로드-코드-생각을-실행-가능한-결과물로-바꾸기/README.md#claude-seo--사이트랜딩-seo-감사)을 참고하세요.
@@ -130,7 +130,7 @@ Marketing Skills로 **카피·CRO**를 다듬고 랜딩·사이트를 배포한 
 | anthropics/claude-plugins-official | https://github.com/anthropics/claude-plugins-official | 클로드 코드 공식 플러그인 마켓플레이스 |
 | wshobson/agents | https://github.com/wshobson/agents | AI 팀·에이전트 구성 참고 |
 | obra/superpowers | https://github.com/obra/superpowers | `subagent-driven-development`·`dispatching-parallel-agents` 등 AI 팀 분업 패턴 |
-| garrytan/gstack | https://github.com/garrytan/gstack | CEO·디자이너·QA·릴리스 역할 슬래시 명령 — 6.3.6절 AI 팀의 클로드 코드 버전 |
+| garrytan/gstack | https://github.com/garrytan/gstack | CEO·디자이너·QA·릴리스 역할 슬래시 명령 — 6.4.6절 AI 팀의 클로드 코드 버전 |
 | coreyhaines31/marketingskills | https://github.com/coreyhaines31/marketingskills | 카피·CRO·런칭·SEO 등 마케팅 스킬 40+. `npx skills add` |
 | AgriciDaniel/claude-seo | https://github.com/AgriciDaniel/claude-seo | 캠페인 랜딩·사이트 `/seo audit` — 출시 후 기술 SEO |
 | claude.com/download | https://claude.com/download | 클로드 데스크톱·코워크 설치 |
